@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Contact</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Home</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Poederlakken</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Poederlakinstallaties</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Gasaplicaties</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Privacy</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Algemene%20Verkoopsvoorwaarden</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/index.php?id=Admin</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=N;O=D</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=M;O=A</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=S;O=A</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=D;O=A</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/aankondiging.php</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/insert.php</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/metadata.php</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=N;O=A</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=M;O=D</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=S;O=D</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://syntraweb.be/stn18/loja/Eindwerk/Website/backend/?C=D;O=D</loc>
+  <lastmod>2018-06-06T12:07:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>

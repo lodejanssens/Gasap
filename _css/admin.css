@@ -1,0 +1,99 @@
+#adminpanel 
+{
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+
+#adminpanel form 
+{
+    margin: 0 auto;
+    display: flex; 
+}
+
+#adminpanel ul 
+{
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+#adminpanel ul li
+{
+    text-align: center;
+    width: 50%;
+    background-color: gray;
+    color: whitesmoke;
+    width: 12em;
+    height: 3em;
+    line-height: 3em;
+    vertical-align: middle;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    list-style-type: none;
+}
+
+#adminpanel ul li a:hover, #adminpanel ul a:active, #adminpanel ul a:focus, #adminpanel ul a:visited
+{
+    color: whitesmoke;
+}
+
+
+
+
+/* Admin alert */
+.adminalert 
+{
+display: flex;
+flex-direction: row;
+text-align:center; 
+justify-content: space-around;
+text-transform:uppercase; 
+position:fixed; 
+margin: 0 auto; 
+background-color: lightgreen; 
+color:gray; 
+width: 100%; 
+height: 2em; 
+vertical-align: middle;
+line-height: 2em; 
+border-bottom: white 2px solid; 
+border-top: white 2px solid; 
+opacity: .8; 
+z-index: 2;
+}
+
+.adminalert h4 
+{
+    justify-content: flex-start;
+    margin: 0 2vw;
+    padding: 0 2vw;
+    background-color: white;
+    color:gray;
+}
+
+.adminalert h4 a:visited
+{
+    color:gray;
+}
+
+.adminalert a 
+{
+    justify-content: flex-end;
+    right: 1vw;
+
+
+}
+
+.adminalert p 
+{
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0 2vw;
+    text-transform: none;
+}
